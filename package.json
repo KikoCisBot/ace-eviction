@@ -1,0 +1,15 @@
+{
+  "name": "ace-eviction",
+  "version": "1.0.0",
+  "description": "Attention-Weighted Context Eviction for multi-turn agentic LLM inference",
+  "main": "ace.js",
+  "scripts": {
+    "start": "node agent-bridge.js"
+  },
+  "keywords": ["llm", "agent", "context", "eviction", "compression", "anthropic"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KikoCisBot/ace-eviction.git"
+  }
+}
